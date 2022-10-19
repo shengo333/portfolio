@@ -4,14 +4,13 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _1a2317e0 = () => interopDefault(import('..\\pages\\bekamatrix.vue' /* webpackChunkName: "pages/bekamatrix" */))
-const _7d7813ab = () => interopDefault(import('..\\pages\\games.vue' /* webpackChunkName: "pages/games" */))
-const _7406739a = () => interopDefault(import('..\\pages\\Header.vue' /* webpackChunkName: "pages/Header" */))
-const _64fde547 = () => interopDefault(import('..\\pages\\matrix.vue' /* webpackChunkName: "pages/matrix" */))
-const _767a972e = () => interopDefault(import('..\\pages\\pages.vue' /* webpackChunkName: "pages/pages" */))
-const _308d3e00 = () => interopDefault(import('..\\pages\\projects.vue' /* webpackChunkName: "pages/projects" */))
-const _8fd0009a = () => interopDefault(import('..\\pages\\resume.vue' /* webpackChunkName: "pages/resume" */))
-const _109e993c = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _513a0492 = () => interopDefault(import('..\\pages\\games.vue' /* webpackChunkName: "pages/games" */))
+const _ad21c4b2 = () => interopDefault(import('..\\pages\\Header.vue' /* webpackChunkName: "pages/Header" */))
+const _48703cbb = () => interopDefault(import('..\\pages\\matrix.vue' /* webpackChunkName: "pages/matrix" */))
+const _5f34fd8c = () => interopDefault(import('..\\pages\\pages.vue' /* webpackChunkName: "pages/pages" */))
+const _00c78874 = () => interopDefault(import('..\\pages\\projects.vue' /* webpackChunkName: "pages/projects" */))
+const _c8eb51b2 = () => interopDefault(import('..\\pages\\resume.vue' /* webpackChunkName: "pages/resume" */))
+const _6a898348 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -25,36 +24,32 @@ export const routerOptions = {
   scrollBehavior,
 
   routes: [{
-    path: "/bekamatrix",
-    component: _1a2317e0,
-    name: "bekamatrix"
-  }, {
     path: "/games",
-    component: _7d7813ab,
+    component: _513a0492,
     name: "games"
   }, {
     path: "/Header",
-    component: _7406739a,
+    component: _ad21c4b2,
     name: "Header"
   }, {
     path: "/matrix",
-    component: _64fde547,
+    component: _48703cbb,
     name: "matrix"
   }, {
     path: "/pages",
-    component: _767a972e,
+    component: _5f34fd8c,
     name: "pages"
   }, {
     path: "/projects",
-    component: _308d3e00,
+    component: _00c78874,
     name: "projects"
   }, {
     path: "/resume",
-    component: _8fd0009a,
+    component: _c8eb51b2,
     name: "resume"
   }, {
     path: "/",
-    component: _109e993c,
+    component: _6a898348,
     name: "index"
   }],
 

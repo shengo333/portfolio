@@ -12,7 +12,7 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 
 /* Plugins */
 
-import nuxt_plugin_axios_27b04a8a from 'nuxt_plugin_axios_27b04a8a' // Source: .\\axios.js (mode: 'all')
+import nuxt_plugin_axios_37b2af3c from 'nuxt_plugin_axios_37b2af3c' // Source: .\\axios.js (mode: 'all')
 
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
@@ -176,8 +176,8 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_axios_27b04a8a === 'function') {
-    await nuxt_plugin_axios_27b04a8a(app.context, inject)
+  if (typeof nuxt_plugin_axios_37b2af3c === 'function') {
+    await nuxt_plugin_axios_37b2af3c(app.context, inject)
   }
 
   // Lock enablePreview in context

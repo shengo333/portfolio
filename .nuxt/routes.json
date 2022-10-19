@@ -1,58 +1,51 @@
 [
   {
-    "name": "bekamatrix",
-    "path": "/bekamatrix",
-    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\Portfolio\\\\nuxtportfolio\\\\pages\\\\bekamatrix.vue",
-    "chunkName": "pages/bekamatrix",
-    "_name": "_1a2317e0"
-  },
-  {
     "name": "games",
     "path": "/games",
-    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\Portfolio\\\\nuxtportfolio\\\\pages\\\\games.vue",
+    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\games.vue",
     "chunkName": "pages/games",
-    "_name": "_7d7813ab"
+    "_name": "_513a0492"
   },
   {
     "name": "Header",
     "path": "/Header",
-    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\Portfolio\\\\nuxtportfolio\\\\pages\\\\Header.vue",
+    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\Header.vue",
     "chunkName": "pages/Header",
-    "_name": "_7406739a"
+    "_name": "_ad21c4b2"
   },
   {
     "name": "matrix",
     "path": "/matrix",
-    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\Portfolio\\\\nuxtportfolio\\\\pages\\\\matrix.vue",
+    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\matrix.vue",
     "chunkName": "pages/matrix",
-    "_name": "_64fde547"
+    "_name": "_48703cbb"
   },
   {
     "name": "pages",
     "path": "/pages",
-    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\Portfolio\\\\nuxtportfolio\\\\pages\\\\pages.vue",
+    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\pages.vue",
     "chunkName": "pages/pages",
-    "_name": "_767a972e"
+    "_name": "_5f34fd8c"
   },
   {
     "name": "projects",
     "path": "/projects",
-    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\Portfolio\\\\nuxtportfolio\\\\pages\\\\projects.vue",
+    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\projects.vue",
     "chunkName": "pages/projects",
-    "_name": "_308d3e00"
+    "_name": "_00c78874"
   },
   {
     "name": "resume",
     "path": "/resume",
-    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\Portfolio\\\\nuxtportfolio\\\\pages\\\\resume.vue",
+    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\resume.vue",
     "chunkName": "pages/resume",
-    "_name": "_8fd0009a"
+    "_name": "_c8eb51b2"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\Portfolio\\\\nuxtportfolio\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_109e993c"
+    "_name": "_6a898348"
   }
 ]
