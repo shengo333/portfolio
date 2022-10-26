@@ -22,7 +22,7 @@
             </div>
             <h1>Independet projects</h1>
             <div class="page-images">
-              <a href="https://vizual.translate.ge/">
+              <a href="https://visual.translate.ge/">
                 <img src="./game/images/vizual.png">
               </a>
             </div>

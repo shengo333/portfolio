@@ -198,12 +198,12 @@ module.exports = ___CSS_LOADER_EXPORT___;
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./pages/pages.vue?vue&type=template&id=7dbc954e&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('Header'),_vm._ssrNode(" <div class=\"content-wrapper\"><div class=\"my-pages pages-background\"><div><h2>Pages I have worked on</h2></div> <div class=\"page-images\"><a href=\"https://boo.evivalhosting.de/\"><img"+(_vm._ssrAttr("src",__webpack_require__(35)))+"></a> <a href=\"https://officewelt24.de/\"><img"+(_vm._ssrAttr("src",__webpack_require__(36)))+"></a> <a href=\"https://dev.ajaxstore.de/\"><img"+(_vm._ssrAttr("src",__webpack_require__(37)))+"></a> <a href=\"https://elektroniks-home.de/\"><img"+(_vm._ssrAttr("src",__webpack_require__(38)))+"></a></div> <h1>Independet projects</h1> <div class=\"page-images\"><a href=\"https://vizual.translate.ge/\"><img"+(_vm._ssrAttr("src",__webpack_require__(39)))+"></a></div></div></div>")],2)}
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./pages/pages.vue?vue&type=template&id=6f6c5a12&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('Header'),_vm._ssrNode(" <div class=\"content-wrapper\"><div class=\"my-pages pages-background\"><div><h2>Pages I have worked on</h2></div> <div class=\"page-images\"><a href=\"https://boo.evivalhosting.de/\"><img"+(_vm._ssrAttr("src",__webpack_require__(35)))+"></a> <a href=\"https://officewelt24.de/\"><img"+(_vm._ssrAttr("src",__webpack_require__(36)))+"></a> <a href=\"https://dev.ajaxstore.de/\"><img"+(_vm._ssrAttr("src",__webpack_require__(37)))+"></a> <a href=\"https://elektroniks-home.de/\"><img"+(_vm._ssrAttr("src",__webpack_require__(38)))+"></a></div> <h1>Independet projects</h1> <div class=\"page-images\"><a href=\"https://visual.translate.ge/\"><img"+(_vm._ssrAttr("src",__webpack_require__(39)))+"></a></div></div></div>")],2)}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./pages/pages.vue?vue&type=template&id=7dbc954e&
+// CONCATENATED MODULE: ./pages/pages.vue?vue&type=template&id=6f6c5a12&
 
 // EXTERNAL MODULE: ./pages/Header.vue + 4 modules
 var Header = __webpack_require__(23);
