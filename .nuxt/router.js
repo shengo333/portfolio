@@ -4,13 +4,13 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _513a0492 = () => interopDefault(import('..\\pages\\games.vue' /* webpackChunkName: "pages/games" */))
-const _ad21c4b2 = () => interopDefault(import('..\\pages\\Header.vue' /* webpackChunkName: "pages/Header" */))
-const _48703cbb = () => interopDefault(import('..\\pages\\matrix.vue' /* webpackChunkName: "pages/matrix" */))
-const _5f34fd8c = () => interopDefault(import('..\\pages\\pages.vue' /* webpackChunkName: "pages/pages" */))
-const _00c78874 = () => interopDefault(import('..\\pages\\projects.vue' /* webpackChunkName: "pages/projects" */))
-const _c8eb51b2 = () => interopDefault(import('..\\pages\\resume.vue' /* webpackChunkName: "pages/resume" */))
-const _6a898348 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _65b3c5e7 = () => interopDefault(import('..\\pages\\games.vue' /* webpackChunkName: "pages/games" */))
+const _35914912 = () => interopDefault(import('..\\pages\\Header.vue' /* webpackChunkName: "pages/Header" */))
+const _f78f0aea = () => interopDefault(import('..\\pages\\matrix.vue' /* webpackChunkName: "pages/matrix" */))
+const _5eb6496a = () => interopDefault(import('..\\pages\\pages.vue' /* webpackChunkName: "pages/pages" */))
+const _6b779244 = () => interopDefault(import('..\\pages\\projects.vue' /* webpackChunkName: "pages/projects" */))
+const _515ad612 = () => interopDefault(import('..\\pages\\resume.vue' /* webpackChunkName: "pages/resume" */))
+const _0e4b6910 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -25,31 +25,31 @@ export const routerOptions = {
 
   routes: [{
     path: "/games",
-    component: _513a0492,
+    component: _65b3c5e7,
     name: "games"
   }, {
     path: "/Header",
-    component: _ad21c4b2,
+    component: _35914912,
     name: "Header"
   }, {
     path: "/matrix",
-    component: _48703cbb,
+    component: _f78f0aea,
     name: "matrix"
   }, {
     path: "/pages",
-    component: _5f34fd8c,
+    component: _5eb6496a,
     name: "pages"
   }, {
     path: "/projects",
-    component: _00c78874,
+    component: _6b779244,
     name: "projects"
   }, {
     path: "/resume",
-    component: _c8eb51b2,
+    component: _515ad612,
     name: "resume"
   }, {
     path: "/",
-    component: _6a898348,
+    component: _0e4b6910,
     name: "index"
   }],
 

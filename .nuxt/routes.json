@@ -2,50 +2,50 @@
   {
     "name": "games",
     "path": "/games",
-    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\games.vue",
+    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\programirebis failebi\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\games.vue",
     "chunkName": "pages/games",
-    "_name": "_513a0492"
+    "_name": "_65b3c5e7"
   },
   {
     "name": "Header",
     "path": "/Header",
-    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\Header.vue",
+    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\programirebis failebi\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\Header.vue",
     "chunkName": "pages/Header",
-    "_name": "_ad21c4b2"
+    "_name": "_35914912"
   },
   {
     "name": "matrix",
     "path": "/matrix",
-    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\matrix.vue",
+    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\programirebis failebi\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\matrix.vue",
     "chunkName": "pages/matrix",
-    "_name": "_48703cbb"
+    "_name": "_f78f0aea"
   },
   {
     "name": "pages",
     "path": "/pages",
-    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\pages.vue",
+    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\programirebis failebi\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\pages.vue",
     "chunkName": "pages/pages",
-    "_name": "_5f34fd8c"
+    "_name": "_5eb6496a"
   },
   {
     "name": "projects",
     "path": "/projects",
-    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\projects.vue",
+    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\programirebis failebi\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\projects.vue",
     "chunkName": "pages/projects",
-    "_name": "_00c78874"
+    "_name": "_6b779244"
   },
   {
     "name": "resume",
     "path": "/resume",
-    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\resume.vue",
+    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\programirebis failebi\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\resume.vue",
     "chunkName": "pages/resume",
-    "_name": "_c8eb51b2"
+    "_name": "_515ad612"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\programirebis failebi\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_6a898348"
+    "_name": "_0e4b6910"
   }
 ]

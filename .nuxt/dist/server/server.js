@@ -1385,19 +1385,19 @@ function shouldScrollToTop(route) {
 
 
 
-const _513a0492 = () => interopDefault(__webpack_require__.e(/* import() | pages/games */ 2).then(__webpack_require__.bind(null, 53)));
+const _65b3c5e7 = () => interopDefault(__webpack_require__.e(/* import() | pages/games */ 2).then(__webpack_require__.bind(null, 53)));
 
-const _ad21c4b2 = () => interopDefault(__webpack_require__.e(/* import() | pages/Header */ 1).then(__webpack_require__.bind(null, 23)));
+const _35914912 = () => interopDefault(__webpack_require__.e(/* import() | pages/Header */ 1).then(__webpack_require__.bind(null, 23)));
 
-const _48703cbb = () => interopDefault(__webpack_require__.e(/* import() | pages/matrix */ 4).then(__webpack_require__.bind(null, 32)));
+const _f78f0aea = () => interopDefault(__webpack_require__.e(/* import() | pages/matrix */ 4).then(__webpack_require__.bind(null, 32)));
 
-const _5f34fd8c = () => interopDefault(__webpack_require__.e(/* import() | pages/pages */ 5).then(__webpack_require__.bind(null, 54)));
+const _5eb6496a = () => interopDefault(__webpack_require__.e(/* import() | pages/pages */ 5).then(__webpack_require__.bind(null, 54)));
 
-const _00c78874 = () => interopDefault(__webpack_require__.e(/* import() | pages/projects */ 6).then(__webpack_require__.bind(null, 55)));
+const _6b779244 = () => interopDefault(__webpack_require__.e(/* import() | pages/projects */ 6).then(__webpack_require__.bind(null, 55)));
 
-const _c8eb51b2 = () => interopDefault(__webpack_require__.e(/* import() | pages/resume */ 7).then(__webpack_require__.bind(null, 56)));
+const _515ad612 = () => interopDefault(__webpack_require__.e(/* import() | pages/resume */ 7).then(__webpack_require__.bind(null, 56)));
 
-const _6a898348 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 3).then(__webpack_require__.bind(null, 57)));
+const _0e4b6910 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 3).then(__webpack_require__.bind(null, 57)));
 
 const emptyFn = () => {};
 
@@ -1410,31 +1410,31 @@ const routerOptions = {
   scrollBehavior: router_scrollBehavior,
   routes: [{
     path: "/games",
-    component: _513a0492,
+    component: _65b3c5e7,
     name: "games"
   }, {
     path: "/Header",
-    component: _ad21c4b2,
+    component: _35914912,
     name: "Header"
   }, {
     path: "/matrix",
-    component: _48703cbb,
+    component: _f78f0aea,
     name: "matrix"
   }, {
     path: "/pages",
-    component: _5f34fd8c,
+    component: _5eb6496a,
     name: "pages"
   }, {
     path: "/projects",
-    component: _00c78874,
+    component: _6b779244,
     name: "projects"
   }, {
     path: "/resume",
-    component: _c8eb51b2,
+    component: _515ad612,
     name: "resume"
   }, {
     path: "/",
-    component: _6a898348,
+    component: _0e4b6910,
     name: "index"
   }],
   fallback: false
@@ -1632,7 +1632,7 @@ var nuxt_error_component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "27bd0785"
+  "6851c10e"
   
 )
 
@@ -1936,7 +1936,7 @@ var nuxt_loading_component = Object(componentNormalizer["a" /* default */])(
   false,
   nuxt_loading_injectStyles,
   null,
-  "ba1f910e"
+  "ae37bb26"
   
 )
 
@@ -1962,7 +1962,7 @@ var default_component = Object(componentNormalizer["a" /* default */])(
   false,
   null,
   null,
-  "5b0f6def"
+  "42c78ce3"
   
 )
 
