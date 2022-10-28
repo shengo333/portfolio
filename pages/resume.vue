@@ -30,7 +30,7 @@
           <li>JavaScript</li>
           <li>Typescript</li>
           <li>Vue3</li>
-          <li>4Stars on Hackerrank.com</li>
+          <li>5 Stars on Hackerrank.com</li>
         </div>
         <div class="flex-wrapp">
             <button @click="showImg = !showImg">
