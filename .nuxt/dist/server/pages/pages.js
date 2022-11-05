@@ -118,7 +118,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__(41);
+var content = __webpack_require__(44);
 if(content.__esModule) content = content.default;
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
@@ -161,11 +161,32 @@ module.exports = __webpack_require__.p + "img/page4.7c92452.jpg";
 /***/ 39:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "img/vizual.22b629d.png";
+module.exports = __webpack_require__.p + "img/biblusi.ef7fab3.png";
 
 /***/ }),
 
 /***/ 40:
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "img/palitral.b252bb0.png";
+
+/***/ }),
+
+/***/ 41:
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "img/litbox.b909094.png";
+
+/***/ }),
+
+/***/ 42:
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "img/vizual.22b629d.png";
+
+/***/ }),
+
+/***/ 43:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -177,7 +198,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 41:
+/***/ 44:
 /***/ (function(module, exports, __webpack_require__) {
 
 // Imports
@@ -191,24 +212,33 @@ module.exports = ___CSS_LOADER_EXPORT___;
 
 /***/ }),
 
-/***/ 54:
+/***/ 58:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./pages/pages.vue?vue&type=template&id=6f6c5a12&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('Header'),_vm._ssrNode(" <div class=\"content-wrapper\"><div class=\"my-pages pages-background\"><div><h2>Pages I have worked on</h2></div> <div class=\"page-images\"><a href=\"https://boo.evivalhosting.de/\"><img"+(_vm._ssrAttr("src",__webpack_require__(35)))+"></a> <a href=\"https://officewelt24.de/\"><img"+(_vm._ssrAttr("src",__webpack_require__(36)))+"></a> <a href=\"https://dev.ajaxstore.de/\"><img"+(_vm._ssrAttr("src",__webpack_require__(37)))+"></a> <a href=\"https://elektroniks-home.de/\"><img"+(_vm._ssrAttr("src",__webpack_require__(38)))+"></a></div> <h1>Independet projects</h1> <div class=\"page-images\"><a href=\"https://visual.translate.ge/\"><img"+(_vm._ssrAttr("src",__webpack_require__(39)))+"></a></div></div></div>")],2)}
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./pages/pages.vue?vue&type=template&id=60d5fa9f&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('Header'),_vm._ssrNode(" <div class=\"content-wrapper\"><div class=\"my-pages pages-background\"><div><h2>Pages I have worked on</h2></div> <div class=\"page-images\"><a href=\"https://boo.evivalhosting.de/\" target=\"blank\"><img"+(_vm._ssrAttr("src",__webpack_require__(35)))+"></a> <a href=\"https://officewelt24.de/\" target=\"blank\"><img"+(_vm._ssrAttr("src",__webpack_require__(36)))+" target=\"blank\"></a> <a href=\"https://dev.ajaxstore.de/\" target=\"blank\"><img"+(_vm._ssrAttr("src",__webpack_require__(37)))+"></a> <a href=\"https://elektroniks-home.de/\" target=\"blank\"><img"+(_vm._ssrAttr("src",__webpack_require__(38)))+"></a> <a href=\"https://biblusi.ge/\" target=\"blank\"><img"+(_vm._ssrAttr("src",__webpack_require__(39)))+"></a> <a href=\"https://palitral.ge/\" target=\"blank\"><img"+(_vm._ssrAttr("src",__webpack_require__(40)))+"></a> <a href=\"https://litbox.ge/\" target=\"blank\"><img"+(_vm._ssrAttr("src",__webpack_require__(41)))+"></a></div> <h1>Independet projects</h1> <div class=\"page-images\"><a href=\"https://visual.translate.ge/\" target=\"blank\"><img"+(_vm._ssrAttr("src",__webpack_require__(42)))+"></a></div></div></div>")],2)}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./pages/pages.vue?vue&type=template&id=6f6c5a12&
+// CONCATENATED MODULE: ./pages/pages.vue?vue&type=template&id=60d5fa9f&
 
 // EXTERNAL MODULE: ./pages/Header.vue + 4 modules
 var Header = __webpack_require__(23);
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/pages.vue?vue&type=script&lang=js&
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -262,7 +292,7 @@ var componentNormalizer = __webpack_require__(2);
 
 function injectStyles (context) {
   
-  var style0 = __webpack_require__(40)
+  var style0 = __webpack_require__(43)
 if (style0.__inject__) style0.__inject__(context)
 
 }

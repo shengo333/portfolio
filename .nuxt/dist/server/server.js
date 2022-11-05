@@ -1385,19 +1385,19 @@ function shouldScrollToTop(route) {
 
 
 
-const _65b3c5e7 = () => interopDefault(__webpack_require__.e(/* import() | pages/games */ 2).then(__webpack_require__.bind(null, 53)));
+const _65b3c5e7 = () => interopDefault(__webpack_require__.e(/* import() | pages/games */ 2).then(__webpack_require__.bind(null, 57)));
 
 const _35914912 = () => interopDefault(__webpack_require__.e(/* import() | pages/Header */ 1).then(__webpack_require__.bind(null, 23)));
 
 const _f78f0aea = () => interopDefault(__webpack_require__.e(/* import() | pages/matrix */ 4).then(__webpack_require__.bind(null, 32)));
 
-const _5eb6496a = () => interopDefault(__webpack_require__.e(/* import() | pages/pages */ 5).then(__webpack_require__.bind(null, 54)));
+const _5eb6496a = () => interopDefault(__webpack_require__.e(/* import() | pages/pages */ 5).then(__webpack_require__.bind(null, 58)));
 
-const _6b779244 = () => interopDefault(__webpack_require__.e(/* import() | pages/projects */ 6).then(__webpack_require__.bind(null, 55)));
+const _6b779244 = () => interopDefault(__webpack_require__.e(/* import() | pages/projects */ 6).then(__webpack_require__.bind(null, 59)));
 
-const _515ad612 = () => interopDefault(__webpack_require__.e(/* import() | pages/resume */ 7).then(__webpack_require__.bind(null, 56)));
+const _515ad612 = () => interopDefault(__webpack_require__.e(/* import() | pages/resume */ 7).then(__webpack_require__.bind(null, 60)));
 
-const _0e4b6910 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 3).then(__webpack_require__.bind(null, 57)));
+const _0e4b6910 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 3).then(__webpack_require__.bind(null, 61)));
 
 const emptyFn = () => {};
 

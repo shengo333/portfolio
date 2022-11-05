@@ -38,6 +38,9 @@
               <span v-else>show certificates</span>
             </button>
             <div class="certificate" v-if="showImg">
+              <a href="http://localhost:3000/_nuxt/pages/game/images/certiport.png" target="_blank">
+                <img src="./game/images/certiport.png">
+              </a>
               <a href="http://localhost:3000/_nuxt/pages/game/images/certimg1.jpg" target="_blank">
                 <img src="./game/images/certimg1.jpg">
               </a>

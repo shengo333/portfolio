@@ -7,22 +7,31 @@
               <h2>Pages I have worked on</h2>
             </div>
             <div class="page-images">
-              <a href="https://boo.evivalhosting.de/">
+              <a href="https://boo.evivalhosting.de/" target="blank">
                 <img src="./game/images/page1.jpg">
               </a>
-              <a href="https://officewelt24.de/">
-                <img src="./game/images/page2.jpg">
+              <a href="https://officewelt24.de/" target="blank">
+                <img src="./game/images/page2.jpg" target="blank">
               </a>
-              <a href="https://dev.ajaxstore.de/">
+              <a href="https://dev.ajaxstore.de/" target="blank">
                 <img src="./game/images/page3.jpg">
               </a>
-              <a href="https://elektroniks-home.de/">
+              <a href="https://elektroniks-home.de/" target="blank">
                 <img src="./game/images/page4.jpg">
+              </a>
+              <a href="https://biblusi.ge/" target="blank">
+                <img src="./game/images/biblusi.png">
+              </a>
+              <a href="https://palitral.ge/" target="blank">
+                <img src="./game/images/palitral.png">
+              </a>
+              <a href="https://litbox.ge/" target="blank">
+                <img src="./game/images/litbox.png">
               </a>
             </div>
             <h1>Independet projects</h1>
             <div class="page-images">
-              <a href="https://visual.translate.ge/">
+              <a href="https://visual.translate.ge/" target="blank">
                 <img src="./game/images/vizual.png">
               </a>
             </div>
