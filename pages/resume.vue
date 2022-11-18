@@ -56,6 +56,9 @@
               <a href="http://localhost:3000/_nuxt/pages/game/images/vueNinjaUdemi.jpg" target="_blank">
                 <img src="./game/images/vueNinjaUdemi.jpg">
               </a>
+              <a href="http://localhost:3000/_nuxt/pages/game/images/newHorizon.jpg" target="_blank">
+                <img src="./game/images/newHorizon.jpg">
+              </a>
             </div>
         </div>
         <!-- <div class="router-link">
