@@ -1,0 +1,23 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/Header.js": "pages/Header.js",
+    "pages/games.js": "pages/games.js",
+    "pages/index.js": "pages/index.js",
+    "pages/matrix.js": "pages/matrix.js",
+    "pages/pages.js": "pages/pages.js",
+    "pages/projects.js": "pages/projects.js",
+    "pages/resume.js": "pages/resume.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/Header.js": "pages/Header.js.map",
+    "pages/games.js": "pages/games.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/matrix.js": "pages/matrix.js.map",
+    "pages/pages.js": "pages/pages.js.map",
+    "pages/projects.js": "pages/projects.js.map",
+    "pages/resume.js": "pages/resume.js.map",
+    "server.js": "server.js.map"
+  }
+}

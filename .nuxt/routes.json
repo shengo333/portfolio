@@ -3,49 +3,42 @@
     "name": "games",
     "path": "/games",
     "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\programirebis failebi\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\games.vue",
-    "chunkName": "pages/games",
-    "_name": "_65b3c5e7"
+    "chunkName": "pages/games"
   },
   {
     "name": "Header",
     "path": "/Header",
     "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\programirebis failebi\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\Header.vue",
-    "chunkName": "pages/Header",
-    "_name": "_35914912"
+    "chunkName": "pages/Header"
   },
   {
     "name": "matrix",
     "path": "/matrix",
     "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\programirebis failebi\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\matrix.vue",
-    "chunkName": "pages/matrix",
-    "_name": "_f78f0aea"
+    "chunkName": "pages/matrix"
   },
   {
     "name": "pages",
     "path": "/pages",
     "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\programirebis failebi\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\pages.vue",
-    "chunkName": "pages/pages",
-    "_name": "_5eb6496a"
+    "chunkName": "pages/pages"
   },
   {
     "name": "projects",
     "path": "/projects",
     "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\programirebis failebi\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\projects.vue",
-    "chunkName": "pages/projects",
-    "_name": "_6b779244"
+    "chunkName": "pages/projects"
   },
   {
     "name": "resume",
     "path": "/resume",
     "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\programirebis failebi\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\resume.vue",
-    "chunkName": "pages/resume",
-    "_name": "_515ad612"
+    "chunkName": "pages/resume"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\bekas\\\\OneDrive\\\\Desktop\\\\programirebis failebi\\\\updatedPortfolio\\\\portfolio\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_0e4b6910"
+    "chunkName": "pages/index"
   }
 ]
